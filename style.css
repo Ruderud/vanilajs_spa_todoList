@@ -1,0 +1,12 @@
+.selectedDay {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.finish {
+  text-decoration: line-through;
+}
